@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+
+    <string name="app_name">OK Romi</string>
+    
+    <string name="kws_caption">Dites \"OK Romi\"</string>
+    <string name="menu_caption">Que puis-je faire pour vous ?</string>
+</resources>
